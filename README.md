@@ -12,32 +12,10 @@ pip install pygame
 2. OR you can use this [Link](https://pypi.org/project/pygame/)
 3. And the total Requirements is full filled.
 
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-Here's our logo (hover to see the title text):
+* The User by default gets 5 Lives for the game.
+* The Enemy battle ships gets incremented as the game goes on.
+* With the help of **Space Bar** the user shoot the bullets to the Enemy Battle Ships.
+* With the help of Directional keys the User can control the flow of their own Battle Ship.
 
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
@@ -52,9 +30,15 @@ var s = "JavaScript syntax highlighting";
 alert(s);
 ```
  
-```python
-s = "Python syntax highlighting"
-print s
+```pythonpygame.init()
+pygame.mixer.init()
+clock = pygame.time.Clock()
+screen = pygame.display.set_mode((gameConfigs["width"], gameConfigs["height"]))
+pygame.display.set_caption(gameConfigs["title"])
+fontSmall = pygame.font.Font("assets/fonts/bitcell.ttf", 30)
+fontLarge = pygame.font.Font("assets/fonts/bitcell.ttf", 200)
+run = True
+actualLevel = 1
 ```
  
 ```
