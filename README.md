@@ -17,19 +17,7 @@ pip install pygame
 * With the help of **Space Bar** the user shoot the bullets to the Enemy Battle Ships.
 * With the help of Directional keys the User can control the flow of their own Battle Ship.
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
+Reference Code : 
 ```python
 
 pygame.init()
@@ -49,7 +37,19 @@ fontLarge = pygame.font.Font("assets/fonts/bitcell.ttf", 200)
 run = True
 actualLevel = 1
 ```
- 
+ Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+
 ```
 No language indicated, so no syntax highlighting. 
 But let's throw in a <b>tag</b>.
