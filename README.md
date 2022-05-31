@@ -30,13 +30,22 @@ var s = "JavaScript syntax highlighting";
 alert(s);
 ```
  
-```pythonpygame.init()
+```python
+
+pygame.init()
+
 pygame.mixer.init()
+
 clock = pygame.time.Clock()
+
 screen = pygame.display.set_mode((gameConfigs["width"], gameConfigs["height"]))
+
 pygame.display.set_caption(gameConfigs["title"])
+
 fontSmall = pygame.font.Font("assets/fonts/bitcell.ttf", 30)
+
 fontLarge = pygame.font.Font("assets/fonts/bitcell.ttf", 200)
+
 run = True
 actualLevel = 1
 ```
