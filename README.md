@@ -6,12 +6,11 @@ It is a *space battle game* where the user will get **_5 Lives_** by default.
 
 1. You need to install Python 3.10.4 from [here](https://www.python.org/downloads/)
 2. You need to install Pygame
-```python 
+``` 
 pip install pygame
 ```
 
-1. First ordered list item
-2. Another item
+2. OR you can use this [Link](https://pypi.org/project/pygame/)
 ⋅⋅* Unordered sub-list. 
 1. Actual numbers don't matter, just that it's a number
 ⋅⋅1. Ordered sub-list
