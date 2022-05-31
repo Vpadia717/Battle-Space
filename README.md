@@ -1,12 +1,5 @@
 # Battle Space
 
-Alt-H1
-======
-
-Alt-H2
-------
-
-
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
