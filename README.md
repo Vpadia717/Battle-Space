@@ -11,9 +11,7 @@ pip install pygame
 ```
 **OR**
 2. Go to this Link
-3. [Link](https://pypi.org/project/pygame/)
-⋅⋅1. Ordered sub-list
-[Link](https://pypi.org/project/pygame/)
+⋅⋅3. Ordered sub-list
 4. And another item.
 2. Go to this [Link](https://pypi.org/project/pygame/)
 3. <br>
