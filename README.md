@@ -44,4 +44,4 @@ Reference Images : <br>
 	
 This is the README file for Battle-Space repository. [^1]
 
-[^]: By : Vivek Padia.
+[^1]: By : Vivek Padia.
