@@ -9,7 +9,7 @@ It is a *space battle game* where the user will get **_5 Lives_** by default.
 ```
 pip install pygame
 ```
-**OR**<br>
+⋅⋅* OR. 
 2. Go to this [Link](https://pypi.org/project/pygame/)
 3. Can use any but recommended is **.py** extension workable platforms.
 
