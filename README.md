@@ -9,8 +9,9 @@ It is a *space battle game* where the user will get **_5 Lives_** by default.
 ```python 
 pip install pygame
 ```
-**OR** <br>
+**OR**<br>
 2. Go to this Link
+3. [Link](https://pypi.org/project/pygame/)
 ⋅⋅1. Ordered sub-list
 [Link](https://pypi.org/project/pygame/)
 4. And another item.
