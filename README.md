@@ -9,7 +9,6 @@ It is a *space battle game* where the user will get **_5 Lives_** by default.
 ``` 
 pip install pygame
 ```
-
 2. OR you can use this [Link](https://pypi.org/project/pygame/)
 
 
@@ -17,7 +16,7 @@ pip install pygame
 
 ⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
 ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)⋅⋅
 
 ⋅⋅⋅The user can live upto 5 lives by default. 
 ⋅⋅⋅The Enemy battle ships increses by the time game goes on.
