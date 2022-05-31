@@ -5,13 +5,13 @@ Here we have made a game using python libraries like *Pygame* or _Pymunk_.
 It is a *space battle game* where the user will get **_5 Lives_** by default.
 
 1. You need to install Python 3.10.4 from [here](https://www.python.org/downloads/)
-2. Use command 
+2. You need to install Pygame
 ```
 pip install pygame
 ```
 ⋅⋅* OR. 
 2. Go to this [Link](https://pypi.org/project/pygame/)
-3. Can use any but recommended is **.py** extension workable platforms.
+⋅⋅3.Can use any but recommended is **.py** extension workable platforms.
 
 ⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
 
