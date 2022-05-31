@@ -11,11 +11,8 @@ It is a *space battle game* where the user will get **_5 Lives_** by default.
 pip install pygame
 ```
 **OR**
-
-⋅⋅* Unordered sub-list. 
-1. Go to this [Link](https://pypi.org/project/pygame/)
-⋅⋅1. Ordered sub-list
-4. And another item.
+2. Go to this [Link](https://pypi.org/project/pygame/)
+3. Can use any but recommended is **.py** extension workable platforms.
 
 ⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
 
@@ -48,7 +45,6 @@ Some text to show that the reference links can follow later.
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
-
 Here's our logo (hover to see the title text):
 
 Inline-style: 
