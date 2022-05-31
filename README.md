@@ -1,6 +1,6 @@
 # Battle Space
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+Here we have made a game using python libraries like *Pygame* or _Pymunk_.
 
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
 
