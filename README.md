@@ -2,7 +2,7 @@
 
 Here we have made a game using python libraries like *Pygame* or _Pymunk_.
 
-It is a *space battle game* where the user will get *_5 Lives_* by default.
+It is a *space battle game* where the user will get **_5 Lives_** by default.
 
 1. First ordered list item
 2. Another item
