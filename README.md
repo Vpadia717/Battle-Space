@@ -42,6 +42,6 @@ actualLevel = 1
 Reference Images : <br>
 	<br>![alt text](assets/images/game_preview.png)
 	
-This is the README file for Battle-Space repository.
+This is the README file for Battle-Space repository[^note].
 
 [^1]: By : Vivek Padia.
