@@ -2,11 +2,7 @@
 
 Here we have made a game using python libraries like *Pygame* or _Pymunk_.
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
+It is a *space battle game* where the user will get *_5 Lives_* by default.
 
 1. First ordered list item
 2. Another item
