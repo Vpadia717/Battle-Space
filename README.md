@@ -6,7 +6,7 @@ It is a *space battle game* where the user will get **_5 Lives_** by default.
 
 1. You need to install Python 3.10.4 from [here](https://www.python.org/downloads/)
 2. You need to install Pygame
-```
+```python 
 pip install pygame
 ```
 ⋅⋅* OR. 
