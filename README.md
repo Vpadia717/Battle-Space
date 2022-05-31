@@ -11,26 +11,11 @@ pip install pygame
 ```
 
 2. OR you can use this [Link](https://pypi.org/project/pygame/)
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
-
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
-
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
-**OR**
-2. Go to this Link
-⋅⋅3. Ordered sub-list
-4. And another item.
-2. Go to this [Link](https://pypi.org/project/pygame/)
-3. <br>
+⋅⋅⋅The user can live upto 5 lives by default. 
+⋅⋅⋅The Enemy battle ships increses by the time game goes on.
+⋅⋅⋅And the user can **Fire** the bullets using the space bar.⋅⋅
+⋅⋅⋅(The Diretional keys are used for directions of User's Battle Ship).
 
 ⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
 
