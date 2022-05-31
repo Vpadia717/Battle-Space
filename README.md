@@ -10,6 +10,7 @@ It is a *space battle game* where the user will get **_5 Lives_** by default.
 pip install pygame
 ```
 2. OR you can use this [Link](https://pypi.org/project/pygame/)
+3. And the total Requirements is full filled.
 
 
 ⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
